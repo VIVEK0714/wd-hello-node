@@ -1,6 +1,4 @@
-const a = 'Vivek'
-
 const ans = () => {
-  console.log('Hello Node.Js!' + a)
+  console.log('Hello Node.js!')
 }
 ans()
